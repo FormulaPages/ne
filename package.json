@@ -1,0 +1,19 @@
+{
+  "name": "formula-ne",
+  "version": "1.0.0",
+  "description": "Not equal function",
+  "main": "NE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/ne.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/ne/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/ne#readme"
+}
