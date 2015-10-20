@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FormulaPages/ne#readme",
   "devDependencies": {
+    "babel": "^5.8.23",
     "tape": "^4.2.1"
   }
 }
